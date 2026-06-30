@@ -186,13 +186,13 @@
 
 ### 如果你不介意 Git
 
-创建一个新的分支，这样你就可以检查类似这样的项目了，只需在方括号中放入一个x：[x]
+ 创建一个新的分支，这样你就可以检查类似这样的项目了，只需在方括号中放入一个x：[x]
 
-1. 在 GitHub 上 Fork 该仓库： 点击 Fork 按钮，将 `https://github.com/jwasham/coding-interview-university` 仓库复制到你的 GitHub 账号中。
+1. - [x] 在 GitHub 上 Fork 该仓库： 点击 Fork 按钮，将 `https://github.com/jwasham/coding-interview-university` 仓库复制到你的 GitHub 账号中。
 
     ![Fork the GitHub repo](https://d3j2pkmjtin6ou.cloudfront.net/fork-button.png)
 
-2. 克隆项目到本地：
+2. - [x] 克隆项目到本地：
 
     ```
     git clone git@github.com:<your_github_username>/coding-interview-university.git
